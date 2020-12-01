@@ -1,0 +1,28 @@
+.account-page {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("/images/img05.png");
+}
+
+.account-page__inner {
+}
+
+.account-page__inner--left {
+  font-family: 'Kaushan Script', cursive;
+}
+
+.account-page__inner--right {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.field {
+  font-family: 'Kaushan Script', cursive; 
+}
+
+.btn {
+  font-family: 'Kaushan Script', cursive; 
+}
+
+/* 以下フォームデザイン */
